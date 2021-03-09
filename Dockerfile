@@ -6,7 +6,7 @@ LABEL "com.github.actions.description"="Build & Publish Debug pre release APK on
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="red"
 
-LABEL "repository"="https://github.com/rng74/autorelease"
+LABEL "repository"="https://github.com/sleepingknights/autorelease"
 LABEL "maintainer"="rng74"
 
 RUN apt update \
